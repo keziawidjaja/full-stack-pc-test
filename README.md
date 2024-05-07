@@ -35,4 +35,4 @@ Here are some more <a href="https://dribbble.com/tags/todo-list" target="_blank"
 24 hours
 
 ### 🎉 Submission
-Please upload the frontend and backend in separate folders, then upload both to this repository. Send us the link to your frontend and backend deployment as well by email!
+Please upload the frontend and backend in separate folders, then send your repository link along with your frontend and backend deployment by email.
