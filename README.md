@@ -16,11 +16,11 @@ Your app needs to fulfill these criteria:
 - Clear all completed todos
 - Include Loading UI fallback on the frontend
 - Deploy the frontend in <b>Vercel</b>
-- Deploy the backend, ideally in <b>AWS</b>, but if it is not possible, you can consider using <a href="https://aiven.io/free-postgresql-database">Aiven</a>.
+- Deploy the backend, ideally in <b>AWS</b>, but if it is not possible, you can consider using <a href="https://docs.render.com/free">Render</a>.
 
 ### ⭐️ Bonus
 You can implement more features. Depending on your experience and time, these are some ideas that you may consider to add in your application.
- - Include Authentication with JWT to separate users that could interact with the To-do app
+ - Implement JWT Authentication to redirect the app (with middleware) to sign-in page & signed-in page & store the tokens in local storage / cookies
  - Pagination for to-do list, 10 to-dos per page
  - Sort to-do by id with ascending and descending
  - Drag and drop to reorder items on the list
