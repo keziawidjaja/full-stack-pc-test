@@ -1,7 +1,7 @@
 # 📝 Full Stack ParallelChain Coding Test 
 
 # The Challenge
-You have to build a To-Do List front-end application in <b>NextJS 14</b> with <b>Typescript</b>. You will also need to build a backend in <b>Django</b> and create a mock database with <b>PostgreSQL</b>.
+You have to build a To-Do List front-end application in <b>NextJS 14</b> with <b>Typescript</b>. You will also need to build a backend (on your choice, e.g, Django, Flask) and create a mock database with <b>PostgreSQL</b>.
 
 Utilize the Server Components in Next 14 and make sure your API calls are organized well, typesafe (include schemas, etc), and use RESTFUL.
 
